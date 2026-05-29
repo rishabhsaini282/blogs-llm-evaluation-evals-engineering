@@ -1,0 +1,7 @@
+level,level_label,company_type,company_examples,base_salary_usd_low,base_salary_usd_high,total_comp_usd_low,total_comp_usd_high,equity_band_percent,notes,source
+L4,Mid-level,Series B–C AI startup,"Early-stage AI startups",140000,170000,160000,210000,0.10–0.35%,"Higher equity upside offsets lower base; Series B option grants can be highly lucrative on IPO or acquisition",aidevdayindia.org
+L5,Senior,Applied AI infrastructure,"Scale AI, Dynamo AI",180000,210000,210000,260000,NA,"Scale AI public listings show $180K–$250K base; equity pushes TC to $210K–$260K",aidevdayindia.org
+L5,Senior,Frontier lab,"OpenAI, Anthropic",195000,230000,250000,380000,NA,"Anthropic L5 equivalent base $195K–$230K; equity packages push TC to $250K–$380K. Research Engineer pay parity achieved.",aidevdayindia.org
+L6,Staff,Frontier lab,"OpenAI, Anthropic, Google DeepMind",230000,280000,380000,500000,NA,"Scales exponentially at staff level; business relies entirely on evaluation accuracy",aidevdayindia.org
+L5,Senior,Google DeepMind,"Google DeepMind",195000,230000,250000,380000,NA,"Typically hired at L5–L6 (Senior to Staff); requires independent design of complex statistical frameworks",aidevdayindia.org
+Mid-Senior (₹),India GCC,"Global Capability Centers (GCC) in India","India-based GCCs across major AI companies",3500000,7500000,3500000,10000000,NA,"₹35L–₹75L CTC for mid-to-senior; ₹100L+ for principal-level talent leading global evaluation strategies. Figures in INR.",aidevdayindia.org
