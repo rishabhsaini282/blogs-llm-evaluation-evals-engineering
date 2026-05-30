@@ -256,4 +256,6 @@ Contributions that add real data (job listings, platform benchmarks, compensatio
 
 ## About the Author
 
-Sanjay Saini is an Enterprise AI Strategy Director specializing in digital transformation and AI ROI models, covering the intersection of AI leadership and sovereign AI infrastructure at [aidevdayindia.org](https://aidevdayindia.org). This repository consolidates the practitioner research published there into a standalone reference for working engineers.
+Rishabh Saini is an AI Tools & Content Engineer passionate about artificial intelligence, automation, and creative technology. He is currently working with AgileWoW, an AI and Agile-focused learning and consulting platform that helps teams and organizations adopt modern AI-driven workflows and agile practices.
+
+[LinkedIn](https://www.linkedin.com/in/rishabh-saini-ba9832290/).
